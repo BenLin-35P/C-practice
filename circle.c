@@ -6,7 +6,7 @@
 		area=PI*radius*radius;
 		printf("圓面積為：%lf\n",area);
 		printf("圓周長為：%lf\n",perimeter);
-
+		;
 		
 		
 
